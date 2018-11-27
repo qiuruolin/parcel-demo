@@ -17,7 +17,12 @@ npm install -g parcel-bundler
 parcel index.html
 ```
 
-### 热替换
+### 构建
+```bash
+parcel build index.html
+```
+
+### 监听
 ```bash
 parcel watch index.html
 ```
