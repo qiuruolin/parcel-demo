@@ -11,3 +11,13 @@
 ```bash
 npm install -g parcel-bundler
 ```
+
+### 运行
+```bash
+parcel index.html
+```
+
+### 热替换
+```bash
+parcel watch index.html
+```
